@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "song": "The game",
+      "artist": "iri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784929126276-00_-_Iri_-_The_game.flac"
+    },
+    {
+      "song": "Bonkers",
+      "artist": "Armand Van Helden, Dizzee Rascal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/faviancesareo15-rgb-1784927540441-01_-_Bonkers_-_Dizzee_Rascal__Armand_Van_Helden.flac"
+    },
+    {
+      "song": "Temprano",
+      "artist": "Eley Romero, RMN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/iprofamily-1784929056432-Rmn_-_Temprano.flac"
+    },
+    {
       "song": "Yarusalem Naayaka",
       "artist": "Gopi Sundar, Sreya Jayadeep, Arya V.S, Mehthab Azeen, Yeez K Jolly and Devananda",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784908279286-Yarusalem_Naayaka_-_Gopi_Sundar__Sreya_Jayadeep__Arya_V.S__Mehthab_Azeen__Yeez_K_Jolly__and_Devananda.flac"
